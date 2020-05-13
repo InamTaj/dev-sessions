@@ -3,6 +3,10 @@ This repository is used for managing all dev sessions of various technologies fo
 
 ## List of Talks
 
-| Topic | Links | Date |
-|---------|-----------------|---------|
-| Building React Apps | [Slides](https://docs.google.com/presentation/d/1mPmQxYtYciMmp481Mq8SBVDYKvdIyNbOBgS838Pi9Zs/edit?usp=sharing), [Code](https://github.com/InamTaj/react-workshop) | 10th July, 2018 |
+| Topic | Links | Date | Venue |
+|---------|-----------------|---------|--------|
+| Building React Apps | [Slides](http://bit.ly/reactjs-workshop), [Code](https://github.com/InamTaj/react-workshop) | 10th July, 2018 | arbisoft |
+| ES6 and Beyond: A Guided Tour into the Valley of Modern JavaScript | [Slides](http://bit.ly/es6-tour) | 22nd June, 2019 | VentureDive |
+| Lessons from building a social-media app with React Native | TODO | - | - |
+| Get Hooked with React | TODO | - | - |
+

@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "format:md": "prettier --parser markdown *.md"
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "prettier": "^2.0.5"
+  },
+    "husky": {
+      "hooks": {
+        "pre-commit": "yarn format:md && git add *.md"
+      }
+  }
+}
