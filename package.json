@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "format:md": "prettier --parser markdown *.md"
+    "format:md": "prettier --parser markdown *.md --write"
   },
   "devDependencies": {
     "husky": "^4.2.5",
