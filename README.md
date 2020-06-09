@@ -1,6 +1,6 @@
 # dev-sessions
 
-This repository is used for managing all dev sessions of various technologies for which I've conducted workshops.
+This repository contains useful links and resources for all dev sessions that I've given.
 
 ## Technical Talks
 
